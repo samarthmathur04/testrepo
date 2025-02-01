@@ -1,4 +1,4 @@
 # LOCKEDIN
 
-print ("hello silly people")
+print ("typeshi")
 
